@@ -1,5 +1,5 @@
 # Magic Jewelry Randomizer
-A music &amp; palette rando Lua script for a NES bootleg - Magic Jewelry. Also has ♫ karaoke &amp; a music test ♫
+A music &amp; palette randomizer Lua script for a NES / Famicom / Pegasus bootleg game by Hwang Shinwei - Magic Jewelry. Also has ♫ karaoke &amp; a music test ♫
 
 I programmed a Lua script to randomize music and display the lyrics for all the songs in the game, including both the lyrics for Speak Softly Love and the alternate Polish lyrics for it, sung by Akcent and known as "Za nami miłość" ( https://www.youtube.com/watch?v=XdEacEsfH3o ), as an easter egg, available by entering the Konami Code on the title screen, as shown on the YouTube video demonstrating the script ( https://www.youtube.com/watch?v=2y7u1UyTMaY )
 
@@ -12,3 +12,5 @@ For the fancy NES font, I used SpiderDave's ( https://github.com/SpiderDave ) he
 The source code for this is freely available and released as free software... it's a piece of code I cared enough for to give it (almost) full comments, because I wanted to use the code from this script to teach my trans ex-boyfriend some coding, get him hooked on retro hardware & I'm also sharing this here, so I wanted the code to be pretty easy to understand and modify.
 
 Also: trans rights are human rights 🏳‍⚧
+
+Magic Jewelry is © 1990 RCM & Hwang Shinwei.
